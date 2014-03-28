@@ -1,0 +1,9 @@
+brand guidelines
+
+ChungoBimp Blue #4A90CC
+
+Button BG #4A90CC
+Button hover #54A4E5
+
+Dark Blue #172E44
+
